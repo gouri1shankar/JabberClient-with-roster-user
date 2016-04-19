@@ -1,0 +1,15 @@
+F:\RanD\AngularNew\JabberClient_Source\JabberClient\bin\Debug\JabberClient.exe
+F:\RanD\AngularNew\JabberClient_Source\JabberClient\bin\Debug\JabberClient.pdb
+F:\RanD\AngularNew\JabberClient_Source\JabberClient\bin\Debug\agsXMPP.xml
+F:\RanD\AngularNew\JabberClient_Source\JabberClient\obj\Debug\JabberClient.csprojResolveAssemblyReference.cache
+F:\RanD\AngularNew\JabberClient_Source\JabberClient\obj\Debug\JabberClient.exe
+F:\RanD\AngularNew\JabberClient_Source\JabberClient\obj\Debug\JabberClient.pdb
+F:\RanD\AngularNew\JabberClient_Source\JabberClient\bin\Debug\JabberClient.exe.config
+E:\br\jabber lib to connet openfire working 06-04-2016\JabberClient\bin\Debug\JabberClient.exe.config
+E:\br\jabber lib to connet openfire working 06-04-2016\JabberClient\bin\Debug\JabberClient.exe
+E:\br\jabber lib to connet openfire working 06-04-2016\JabberClient\bin\Debug\JabberClient.pdb
+E:\br\jabber lib to connet openfire working 06-04-2016\JabberClient\bin\Debug\agsXMPP.dll
+E:\br\jabber lib to connet openfire working 06-04-2016\JabberClient\bin\Debug\agsXMPP.pdb
+E:\br\jabber lib to connet openfire working 06-04-2016\JabberClient\obj\Debug\JabberClient.csprojResolveAssemblyReference.cache
+E:\br\jabber lib to connet openfire working 06-04-2016\JabberClient\obj\Debug\JabberClient.exe
+E:\br\jabber lib to connet openfire working 06-04-2016\JabberClient\obj\Debug\JabberClient.pdb

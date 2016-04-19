@@ -1,0 +1,9 @@
+E:\br\agsXmpp-master\agsXmpp-master\agsxmpp\bin\Debug\agsXMPP.dll
+E:\br\agsXmpp-master\agsXmpp-master\agsxmpp\bin\Debug\agsXMPP.pdb
+E:\br\agsXmpp-master\agsXmpp-master\agsxmpp\obj\Debug\agsXMPP.csprojResolveAssemblyReference.cache
+E:\br\agsXmpp-master\agsXmpp-master\agsxmpp\obj\Debug\agsXMPP.dll
+E:\br\agsXmpp-master\agsXmpp-master\agsxmpp\obj\Debug\agsXMPP.pdb
+E:\br\jabber lib to connet openfire working 06-04-2016\agsxmpp\bin\Debug\agsXMPP.dll
+E:\br\jabber lib to connet openfire working 06-04-2016\agsxmpp\bin\Debug\agsXMPP.pdb
+E:\br\jabber lib to connet openfire working 06-04-2016\agsxmpp\obj\Debug\agsXMPP.dll
+E:\br\jabber lib to connet openfire working 06-04-2016\agsxmpp\obj\Debug\agsXMPP.pdb
